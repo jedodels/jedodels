@@ -7,4 +7,4 @@ I'm a web developer who is passionate about writing code, solving problems, auto
 - 🔭 I’m working as a Frontend Web Developer.
 - 👯 I’m writing codes in JavaScript, TypeScript, React, & Redux.
 - 📚 Outside work, I love to read books. 
-- 📫 Reach me out through here --> [Personal Contact Form](https://jedodels.netlify.app/contact/)
+- 📫 Reach me out through here my personal [Contact Form](https://jedodels.netlify.app/contact/)
